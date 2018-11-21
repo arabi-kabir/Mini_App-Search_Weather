@@ -1,0 +1,45 @@
+
+html { 
+    background: url(../image/img9.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+footer{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	background-color: #353b48;
+	text-align: center;
+	padding-top: 3px;
+    padding-bottom: 3px;
+    overflow: hidden;
+    color: whitesmoke;
+}
+body{
+    background: none;
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+input{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.container{
+    width: 500px;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgba(37, 55, 61, .6);
+    padding: 30px;
+}
+
+#error-div{
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+}

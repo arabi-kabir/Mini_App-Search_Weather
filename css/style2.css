@@ -1,0 +1,48 @@
+
+html { 
+    background: url(../image/img9.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+footer{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	background-color: rgba(37, 55, 61, .6);
+	text-align: center;
+	padding-top: 3px;
+    padding-bottom: 3px;
+    overflow: hidden;
+    color: whitesmoke;
+}
+body{
+    background: none;
+}
+
+.table{
+    margin-bottom: 0px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container{
+    width: 800px;
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgba(37, 55, 61, .6);
+    padding: 20px;
+}
+
+#srcAgainBtn{
+    width: 300px;
+}
+
+a{
+    margin-top: 20px;
+}
